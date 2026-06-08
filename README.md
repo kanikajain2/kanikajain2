@@ -8,12 +8,11 @@
 
 ### ⚡ About me
 
-I'm a mobile app developer specializing in **Flutter & Dart**. I architect cross-platform apps from scratch — handling UI, state management, API integration, and Firebase backend. I care about performance, clean architecture, and shipping apps that actually work.
+I'm a **Flutter & Dart** passionate about building cross-platform applications. I enjoy turning ideas into polished mobile experiences through thoughtful UI design, efficient state management, API integration, and Firebase-powered backends.
 
 - 🎓 3rd year B.Tech @ MITS Gwalior
 - 📱 Building production-grade Flutter apps
 - 🔧 Currently deepening skills in Riverpod & Clean Architecture
-- 🤝 Open to internships & open-source collaboration
 
 ---
 
@@ -53,9 +52,7 @@ I'm a mobile app developer specializing in **Flutter & Dart**. I architect cross
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanikajain2&theme=cobalt&hide_border=true" height="165" alt="streak" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikajain2&layout=compact&theme=cobalt&hide_border=true" alt="top languages" />
-</p> -->
+
 
 ---
 
