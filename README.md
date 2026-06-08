@@ -48,12 +48,14 @@ I'm a mobile app developer specializing in **Flutter & Dart**. I architect cross
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikajain2&show_icons=true&theme=cobalt&hide_border=true" height="165" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanikajain2&theme=cobalt" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanikajain2&theme=cobalt" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanikajain2&theme=cobalt&hide_border=true" height="165" alt="streak" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikajain2&layout=compact&theme=cobalt&hide_border=true" alt="top languages" />
-</p>
+</p> -->
 
 ---
 
