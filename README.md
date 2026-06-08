@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanikajain2&label=Profile+Views&color=e683d9&style=flat" alt="profile views" />
-</p>
 
 <h1 align="center">Helloo Everyone, I'm Kanika Jain </h1>
 <p align="center">
@@ -41,7 +38,7 @@ I'm a mobile app developer specializing in **Flutter & Dart**. I architect cross
   `Real-time alerts` `Staff-guest comms` `Firebase`
 
 - 🛣 **[roadifyy](https://github.com/kanikajain2/roadifyy)** — A civic tech app focused on road safety. Local citizens can report infrastructure issues — potholes, broken streetlights, road damage — and connect directly with higher authorities for faster resolution.
-  `Issue reporting` `Geo-tagged complaints` `Authority connect` `Civic tech`
+  `Issue reporting` `Geo-tagged complaints` `Authority connect` `Civic tech.`
 
 - 🏥 **[healthbro](https://github.com/kanikajain2/healthbro)** *(Hackathon Project)* — A full-stack health platform with separate doctor & patient dashboards. Built for rapid triage and smart health management.
   `Emergency reporting` `Risk prediction` `Symptom checker` `Voice notes (SOAP)` `Dual dashboard`
@@ -64,4 +61,7 @@ I'm a mobile app developer specializing in **Flutter & Dart**. I architect cross
   📫 Connect on <a href="https://www.linkedin.com/in/kanika-jain-5477b52b9/">LinkedIn</a> · 📍 Gwalior, India
 </p>
 
-![](https://komarev.com/ghpvc/?username=kanikajain2&color=#ff69b4&style=plastic&label=COUNTS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanikajain2&label=COUNTS&color=ff69b4&style=plastic" alt="Counts" />
+</p>
+
